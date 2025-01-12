@@ -19,7 +19,7 @@ IMPROVA:
 - Could someone please mark the xtal pin for extern clock input?
 - Ya know that trace to that top decoupling cap dunn't need to be only 10 thou.
 - break out pins 1, 12, 23, 34 to pads incase they need bodge connections
-- align the pin 27 connection with VCC for easier bridging to use 2764 roms.
+- align the pin 27 connection with VCC for easier bridging to use 2764 roms. (haha wait no, there are only 28 pins)
 
 ![ ](8051TOP.png)
 ![ ](8051BOT.png)
